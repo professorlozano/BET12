@@ -1,12 +1,12 @@
-using ER2.Interfaces;
+using ER3.Interfaces;
 
-namespace ER2.Classes
+namespace ER3.Classes
 {
     public abstract class Pessoa : IPessoa
     {
         public string ?nome { get;set; }
 
-        public string ?endereco { get; set; }
+        public Endereco ?endereco { get; set; }
 
         public float ?rendimento { get; set; }
 

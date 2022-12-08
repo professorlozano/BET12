@@ -1,6 +1,6 @@
-using ER2.Interfaces;
+using ER3.Interfaces;
 
-namespace ER2.Classes
+namespace ER3.Classes
 {
     public class PessoaJuridica : Pessoa, IPessoaJuridica
     {

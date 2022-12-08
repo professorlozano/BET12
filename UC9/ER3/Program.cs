@@ -1,34 +1,34 @@
 ﻿
-using ER2.Classes;
+using ER3.Classes;
 
 PessoaFisica obj_PF = new PessoaFisica();
+Endereco novoEnd = new Endereco();
+PessoaFisica metodoPf = new PessoaFisica();
 
-obj_PF.nome = "Lozano";
-obj_PF.cpf = "31431332122";
-obj_PF.endereco = "Rua Niteroi 180";
-obj_PF.rendimento = 1000.00f;
 
-Console.WriteLine($"Nome: "+ obj_PF.nome);
-Console.WriteLine($"CPF: "+ obj_PF.cpf);
-Console.WriteLine($"Endereço: " + obj_PF.endereco);
-Console.WriteLine($"Rendimento: " + obj_PF.rendimento);
+obj_PF.nome = "Luiz";
+obj_PF.dataNascimento = "01/01/2000";
+obj_PF.cpf = "30430430404";
+obj_PF.rendimento = 1500.00f;
 
-Console.WriteLine($"*******************************************************************");
+novoEnd.Logradouro = "Rua Niteroi";
+novoEnd.numero = 180;
+novoEnd.complemento = "Escola Senai Paulo Skaf";
+novoEnd.endComercial = true;
 
-PessoaJuridica obj_PJ = new PessoaJuridica();
-obj_PJ.nome = "Magazine Pe a Pe";
-obj_PJ.cnpj = "041040020000112";
-obj_PJ.razaoSocial = "Magazine XYZ";
-obj_PJ.rendimento = 9000.00f;
+obj_PF.endereco = novoEnd;
 
 Console.WriteLine(@$"
-Nome: {obj_PJ.nome}
-CNPJ: {obj_PJ.cnpj}
-Razao Social: {obj_PJ.razaoSocial}
-Rendimento: {obj_PJ.rendimento}
+Nome: {obj_PF.nome}
+Data de Nascimento: {obj_PF.dataNascimento}
+CPF: {obj_PF.cpf}
+Rendimento: {obj_PF.rendimento}
+Logradouro: {obj_PF.endereco.Logradouro}
+Numero: {obj_PF.endereco.numero}
+Complemento: {obj_PF.endereco.complemento}
+Endereço Comercial? {obj_PF.endereco.endComercial}
+Maior de Idade? {metodoPf.ValidarDataNascimento(obj_PF.dataNascimento)}
 ");
-
-Console.WriteLine($"*******************************************************************");
 
 
 

@@ -1,4 +1,4 @@
-namespace ER2.Interfaces
+namespace ER3.Interfaces
 {
     public interface IPessoa
     {
