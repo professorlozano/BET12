@@ -1,0 +1,15 @@
+C:\Users\lozano\Desktop\Github\BET12\UC9\ER4\PROJETO\bin\Debug\net6.0\PROJETO.exe
+C:\Users\lozano\Desktop\Github\BET12\UC9\ER4\PROJETO\bin\Debug\net6.0\PROJETO.deps.json
+C:\Users\lozano\Desktop\Github\BET12\UC9\ER4\PROJETO\bin\Debug\net6.0\PROJETO.runtimeconfig.json
+C:\Users\lozano\Desktop\Github\BET12\UC9\ER4\PROJETO\bin\Debug\net6.0\PROJETO.dll
+C:\Users\lozano\Desktop\Github\BET12\UC9\ER4\PROJETO\bin\Debug\net6.0\PROJETO.pdb
+C:\Users\lozano\Desktop\Github\BET12\UC9\ER4\PROJETO\obj\Debug\net6.0\PROJETO.csproj.AssemblyReference.cache
+C:\Users\lozano\Desktop\Github\BET12\UC9\ER4\PROJETO\obj\Debug\net6.0\PROJETO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lozano\Desktop\Github\BET12\UC9\ER4\PROJETO\obj\Debug\net6.0\PROJETO.AssemblyInfoInputs.cache
+C:\Users\lozano\Desktop\Github\BET12\UC9\ER4\PROJETO\obj\Debug\net6.0\PROJETO.AssemblyInfo.cs
+C:\Users\lozano\Desktop\Github\BET12\UC9\ER4\PROJETO\obj\Debug\net6.0\PROJETO.csproj.CoreCompileInputs.cache
+C:\Users\lozano\Desktop\Github\BET12\UC9\ER4\PROJETO\obj\Debug\net6.0\PROJETO.dll
+C:\Users\lozano\Desktop\Github\BET12\UC9\ER4\PROJETO\obj\Debug\net6.0\refint\PROJETO.dll
+C:\Users\lozano\Desktop\Github\BET12\UC9\ER4\PROJETO\obj\Debug\net6.0\PROJETO.pdb
+C:\Users\lozano\Desktop\Github\BET12\UC9\ER4\PROJETO\obj\Debug\net6.0\PROJETO.genruntimeconfig.cache
+C:\Users\lozano\Desktop\Github\BET12\UC9\ER4\PROJETO\obj\Debug\net6.0\ref\PROJETO.dll
